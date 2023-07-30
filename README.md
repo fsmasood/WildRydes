@@ -1,6 +1,5 @@
 # Wild Rydes - AWS Serverless Application
-
-Website URL hosted on AWS Amplify ---> [Wild Rydes - Rydes of the Future!]([https://main.d2pdbx3gldv4qa.amplifyapp.com/](https://master.dm8uyu73y5w7y.amplifyapp.com/))
+Website URL hosted on AWS Amplify ---> [Wild Rydes - Rydes of the Future!](https://master.dm8uyu73y5w7y.amplifyapp.com/)
 
 ## Technologies Used
 - AWS Amplify: Hosted the static resources for the web applications from a GitHub repo with CI/CD built in.
